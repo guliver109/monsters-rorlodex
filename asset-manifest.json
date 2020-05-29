@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-rorlodex.git/static/css/main.39c9b961.chunk.css",
+    "main.js": "/monsters-rorlodex.git/static/js/main.b9a5a942.chunk.js",
+    "main.js.map": "/monsters-rorlodex.git/static/js/main.b9a5a942.chunk.js.map",
+    "runtime-main.js": "/monsters-rorlodex.git/static/js/runtime-main.3fc14fcc.js",
+    "runtime-main.js.map": "/monsters-rorlodex.git/static/js/runtime-main.3fc14fcc.js.map",
+    "static/js/2.7aaef059.chunk.js": "/monsters-rorlodex.git/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/monsters-rorlodex.git/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/monsters-rorlodex.git/index.html",
+    "precache-manifest.69681f6e88bdc1b80397a4c49f29ab84.js": "/monsters-rorlodex.git/precache-manifest.69681f6e88bdc1b80397a4c49f29ab84.js",
+    "service-worker.js": "/monsters-rorlodex.git/service-worker.js",
+    "static/css/main.39c9b961.chunk.css.map": "/monsters-rorlodex.git/static/css/main.39c9b961.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monsters-rorlodex.git/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc14fcc.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.39c9b961.chunk.css",
+    "static/js/main.b9a5a942.chunk.js"
+  ]
+}
